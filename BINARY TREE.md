@@ -1,9 +1,7 @@
-# Experiment 9(a): Binary Tree (Float Values)
+# Ex.No:9B Binary Tree (Float Values)
 
 ## Aim
 To write a Python program to build a binary tree with a root, left, and right node using float values.
-
----
 
 ## Algorithm
 
@@ -15,7 +13,6 @@ To write a Python program to build a binary tree with a root, left, and right no
 6. Print the list of nodes.
 7. End the program.
 
----
 
 ## Program
 
