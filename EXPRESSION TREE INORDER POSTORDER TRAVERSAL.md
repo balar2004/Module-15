@@ -1,10 +1,8 @@
-# Experiment 9(c): Expression Tree – Inorder and Postorder Traversal
+# Ex.No:9D Expression Tree – Inorder and Postorder Traversal
 
 ## Aim
 To write a Python program to build the following expression tree and print the inorder and postorder traversal.
 
-
----
 
 ## Algorithm
 
@@ -16,7 +14,6 @@ To write a Python program to build the following expression tree and print the i
 6. Print the postorder traversal of the expression tree using `.postorder`.
 7. End the program.
 
----
 
 ## Program
 
