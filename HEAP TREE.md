@@ -1,9 +1,8 @@
-# Experiment 9(d): Heap Tree
+# Ex.No:9D Heap Tree
 
 ## Aim
 To write a Python program to build a heap tree using appropriate Python package and function.
 
----
 
 ## Algorithm
 
@@ -14,7 +13,6 @@ To write a Python program to build a heap tree using appropriate Python package 
 5. Print the created heap.
 6. End the program.
 
----
 
 ## Program
 
