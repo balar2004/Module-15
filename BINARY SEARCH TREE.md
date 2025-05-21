@@ -1,9 +1,8 @@
-# Experiment 9(b): Binary Search Tree
+# Ex.No:9A Binary Search Tree
 
 ## Aim
 To write a Python program to build a Binary Search Tree (BST) using a built-in function.
 
----
 
 ## Algorithm
 
@@ -19,8 +18,6 @@ To write a Python program to build a Binary Search Tree (BST) using a built-in f
 10. Print the left subtree values.
 11. Check and print whether the built tree is a Binary Search Tree.
 12. End the program.
-
----
 
 ## Program
 
